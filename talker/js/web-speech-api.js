@@ -6,10 +6,10 @@ var messages = {
     msg: 'Speak now.',
     class: 'alert-success'},
   "no_speech": {
-    msg: 'No speech was detected. You may need to adjust your <a href="//support.google.com/chrome/answer/2693767" target="_blank">microphone settings</a>.',
+    msg: 'No speech was detected. You may need to adjust your mic.',
     class: 'alert-danger'},
   "no_microphone": {
-    msg: 'No microphone was found. Ensure that a microphone is installed and that <a href="//support.google.com/chrome/answer/2693767" target="_blank">microphone settings</a> are configured correctly.',
+    msg: 'No microphone was found. Ensure that a microphone is installed and that mic settings are configured correctly.',
     class: 'alert-danger'},
   "allow": {
     msg: 'Click the "Allow" button above to enable your microphone.',
